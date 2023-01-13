@@ -9,6 +9,6 @@ entries:
     name: homer-helm
     type: application
     urls:
-    - https://github.com/sighanse/helm-chart/homer-helm-0.1.0.tgz
+    - https://helm.portarthur.no/homer-helm-0.1.0.tgz
     version: 0.1.0
 generated: "2023-01-13T15:34:48.308287475+01:00"
