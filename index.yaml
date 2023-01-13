@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   homer-helm:
   - apiVersion: v2
+    appVersion: v22.11.2
+    created: "2023-01-13T17:09:31.546654091+01:00"
+    description: A Helm chart installing Homer on Kubernetes
+    digest: 093e49257bbfc2d392ea47be65d68f7cd9000182962aa8030cab509dd3661307
+    name: homer-helm
+    type: application
+    urls:
+    - https://helm.portarthur.no/homer-helm-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-01-13T15:34:48.308840489+01:00"
+    created: "2023-01-13T17:09:31.546076731+01:00"
     description: A Helm chart installing Homer on Kubernetes
     digest: a80c0abc00413747f5cbfb9369fa2c4aba5fcfc6dec6d3d3e834595d9bb4e907
     name: homer-helm
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://helm.portarthur.no/homer-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-13T15:34:48.308287475+01:00"
+generated: "2023-01-13T17:09:31.545445639+01:00"
