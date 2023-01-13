@@ -3,12 +3,13 @@ entries:
   homer-helm:
   - apiVersion: v2
     appVersion: v22.11.2
-    created: "2023-01-13T18:10:07.228215227+01:00"
+    created: "2023-01-13T18:37:08.663730672+01:00"
     description: A Helm chart installing Homer on Kubernetes
-    digest: f1b17807f1d6de20240de1662665966ed95478439d600bb7cb58121127d5de6b
+    digest: a699fefbd690514e25e69884e5e7cebc9b8a146192dabba163a22d0bb1991db9
+    icon: https://raw.githubusercontent.com//bastienwirtz/homer/main/public/logo.png
     name: homer-helm
     type: application
     urls:
     - https://helm.portarthur.no/homer-helm-0.1.3.tgz
     version: 0.1.3
-generated: "2023-01-13T18:10:07.22674521+01:00"
+generated: "2023-01-13T18:37:08.662443594+01:00"
