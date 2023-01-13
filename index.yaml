@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  homer-helm:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-01-13T15:34:48.308840489+01:00"
+    description: A Helm chart installing Homer on Kubernetes
+    digest: a80c0abc00413747f5cbfb9369fa2c4aba5fcfc6dec6d3d3e834595d9bb4e907
+    name: homer-helm
+    type: application
+    urls:
+    - https://github.com/sighanse/helm-chart/homer-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-13T15:34:48.308287475+01:00"
